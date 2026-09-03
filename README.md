@@ -10,14 +10,14 @@
 ---
 
 ## 📌 Latest Bypassed and Tested App Details
-- App version: **574.0.0.23.109**
+- App version: **577.0.0.22.107**
 - Tools Used for test: [Mitmproxy](https://mitmproxy.org/), [Reqable](https://reqable.com/).
 - For any inquiries, please contact me on Telegram [https://t.me/SHAJON](https://t.me/SHAJON)
 
 ---
 
 ## 🎥 Evidence
-![Messenger iOS](assets/v574.jpg)
+![Messenger iOS](assets/v577.jpg)
 
 ---
 
@@ -52,7 +52,7 @@
   <tbody>
     <tr>
       <td rowspan="3" align="center"><code>com.facebook.Messenger</code></td>
-      <td align="center">574.0.0.23.109</td>
+      <td align="center">577.0.0.22.107</td>
       <td align="center">✅ Bypassed</td>
       <td align="center">✅ Yes</td>
       <td align="center"><a href="https://t.me/SHAJON">Contact Telegram</a></td>
